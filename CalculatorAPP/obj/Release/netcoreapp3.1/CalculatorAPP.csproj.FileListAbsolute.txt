@@ -1,0 +1,15 @@
+D:\Dedicated Projects\Calculator\CalculatorAPP\bin\Release\netcoreapp3.1\CalculatorAPP.exe
+D:\Dedicated Projects\Calculator\CalculatorAPP\bin\Release\netcoreapp3.1\CalculatorAPP.deps.json
+D:\Dedicated Projects\Calculator\CalculatorAPP\bin\Release\netcoreapp3.1\CalculatorAPP.runtimeconfig.json
+D:\Dedicated Projects\Calculator\CalculatorAPP\bin\Release\netcoreapp3.1\CalculatorAPP.runtimeconfig.dev.json
+D:\Dedicated Projects\Calculator\CalculatorAPP\bin\Release\netcoreapp3.1\CalculatorAPP.dll
+D:\Dedicated Projects\Calculator\CalculatorAPP\bin\Release\netcoreapp3.1\CalculatorAPP.pdb
+D:\Dedicated Projects\Calculator\CalculatorAPP\obj\Release\netcoreapp3.1\CalculatorAPP.csprojAssemblyReference.cache
+D:\Dedicated Projects\Calculator\CalculatorAPP\obj\Release\netcoreapp3.1\CalculatorAPP.Form1.resources
+D:\Dedicated Projects\Calculator\CalculatorAPP\obj\Release\netcoreapp3.1\CalculatorAPP.csproj.GenerateResource.cache
+D:\Dedicated Projects\Calculator\CalculatorAPP\obj\Release\netcoreapp3.1\CalculatorAPP.AssemblyInfoInputs.cache
+D:\Dedicated Projects\Calculator\CalculatorAPP\obj\Release\netcoreapp3.1\CalculatorAPP.AssemblyInfo.cs
+D:\Dedicated Projects\Calculator\CalculatorAPP\obj\Release\netcoreapp3.1\CalculatorAPP.csproj.CoreCompileInputs.cache
+D:\Dedicated Projects\Calculator\CalculatorAPP\obj\Release\netcoreapp3.1\CalculatorAPP.dll
+D:\Dedicated Projects\Calculator\CalculatorAPP\obj\Release\netcoreapp3.1\CalculatorAPP.pdb
+D:\Dedicated Projects\Calculator\CalculatorAPP\obj\Release\netcoreapp3.1\CalculatorAPP.genruntimeconfig.cache

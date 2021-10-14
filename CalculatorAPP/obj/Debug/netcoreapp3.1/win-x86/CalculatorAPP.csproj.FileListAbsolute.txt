@@ -508,3 +508,4 @@ D:\Dedicated Projects\Calculator\CalculatorAPP\obj\Debug\netcoreapp3.1\win-x86\C
 D:\Dedicated Projects\Calculator\CalculatorAPP\obj\Debug\netcoreapp3.1\win-x86\CalculatorAPP.dll
 D:\Dedicated Projects\Calculator\CalculatorAPP\obj\Debug\netcoreapp3.1\win-x86\CalculatorAPP.pdb
 D:\Dedicated Projects\Calculator\CalculatorAPP\obj\Debug\netcoreapp3.1\win-x86\CalculatorAPP.genruntimeconfig.cache
+D:\Dedicated Projects\Calculator\CalculatorAPP\obj\Debug\netcoreapp3.1\win-x86\CalculatorAPP.csprojAssemblyReference.cache

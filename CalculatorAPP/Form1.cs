@@ -134,11 +134,13 @@ namespace CalculatorAPP
             labelInputValue.Text = "";
             outputResult = 0;
             isOperatorUsed = false;
+            enableOperators();
         }
 
         private void buttonValueClear_Click(object sender, EventArgs e)
         {
             textBoxResult.Text = "0";
+            enableOperators();
         }
 
         private void contextHelpStrip_ItemClicked(object sender, ToolStripItemClickedEventArgs e)

@@ -1,0 +1,10 @@
+D:\Dedicated Projects\Calculator\AnkitCalculator\bin\Debug\AnkitCalculator.exe.config
+D:\Dedicated Projects\Calculator\AnkitCalculator\bin\Debug\AnkitCalculator.exe
+D:\Dedicated Projects\Calculator\AnkitCalculator\bin\Debug\AnkitCalculator.pdb
+D:\Dedicated Projects\Calculator\AnkitCalculator\obj\Debug\AnkitCalculator.csprojAssemblyReference.cache
+D:\Dedicated Projects\Calculator\AnkitCalculator\obj\Debug\AnkitCalculator.AnkitCalculator.resources
+D:\Dedicated Projects\Calculator\AnkitCalculator\obj\Debug\AnkitCalculator.Properties.Resources.resources
+D:\Dedicated Projects\Calculator\AnkitCalculator\obj\Debug\AnkitCalculator.csproj.GenerateResource.cache
+D:\Dedicated Projects\Calculator\AnkitCalculator\obj\Debug\AnkitCalculator.csproj.CoreCompileInputs.cache
+D:\Dedicated Projects\Calculator\AnkitCalculator\obj\Debug\AnkitCalculator.exe
+D:\Dedicated Projects\Calculator\AnkitCalculator\obj\Debug\AnkitCalculator.pdb
